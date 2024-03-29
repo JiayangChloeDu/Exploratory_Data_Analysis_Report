@@ -1,4 +1,4 @@
-# Exploratory Data Analysis Reports (plotly, Seaborn, Matplotlib)
+# Exploratory Data Analysis Reports (Plotly, Seaborn, Matplotlib)
 
 In a series of analytically driven projects, I've harnessed a diverse set of techniques to probe deep into areas critical to business intelligence and risk management. My work has spanned the intricate study of consumer transaction behaviors, unraveling the complexities of how and where people spend their money, and merchant distribution patterns, identifying where business activity is most concentrated. In the financial markets, I've scrutinized potential insider trading activities, employing advanced analytics to detect irregularities that could signify unfair advantages. The healthcare sector has also been under my lens, where I've pinpointed anomalies that could indicate fraudulent activities, thereby safeguarding the integrity of medical claims and services.
 
